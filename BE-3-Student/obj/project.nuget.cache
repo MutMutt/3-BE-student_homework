@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "75IG0s75vCgYst/wYH7V6pHLOFYeA/zATHlzkmPihuTd9grMjAuLMwv8nWKZ+diNlervxmQoTMvnBRsiZ64r1Q==",
+  "dgSpecHash": "1AgQkQLFiSy3jZOrrmUgB25HyCG2d9mEjvIrDrJUweCbkib3AtrZOSB5+SvtTibQVNZAhbChFh8KlJwFSKnnVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P-L\\source\\repos\\BE-3-Student\\BE-3-Student.csproj",
+  "projectFilePath": "Q:\\Github\\3-BE-student_homework\\BE-3-Student\\BE-3-Student.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\P-L\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P-L\\source\\repos\\BE-3-Student\\BE-3-Student.csproj": {}
+    "Q:\\Github\\3-BE-student_homework\\BE-3-Student\\BE-3-Student.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P-L\\source\\repos\\BE-3-Student\\BE-3-Student.csproj": {
+    "Q:\\Github\\3-BE-student_homework\\BE-3-Student\\BE-3-Student.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P-L\\source\\repos\\BE-3-Student\\BE-3-Student.csproj",
+        "projectUniqueName": "Q:\\Github\\3-BE-student_homework\\BE-3-Student\\BE-3-Student.csproj",
         "projectName": "BE-3-Student",
-        "projectPath": "C:\\Users\\P-L\\source\\repos\\BE-3-Student\\BE-3-Student.csproj",
+        "projectPath": "Q:\\Github\\3-BE-student_homework\\BE-3-Student\\BE-3-Student.csproj",
         "packagesPath": "C:\\Users\\P-L\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P-L\\source\\repos\\BE-3-Student\\obj\\",
+        "outputPath": "Q:\\Github\\3-BE-student_homework\\BE-3-Student\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\P-L\\AppData\\Roaming\\NuGet\\NuGet.Config",
