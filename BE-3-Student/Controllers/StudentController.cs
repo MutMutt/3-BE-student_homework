@@ -117,7 +117,7 @@ namespace BE_3_Student.Controller
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult> Update_Books(int id, StudentDTO student)
+        public async Task<ActionResult> Update_Student(int id, StudentDTO student)
         {
             if (id != student.Students_Id || !StudentExists(id))
             {
